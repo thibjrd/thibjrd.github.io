@@ -29,19 +29,9 @@ I prepared my Phd under the supervision of Professor Anne Moreau, at the Institu
 My full résumé can be found [here](https://thibjrd.github.io/docs/CV.pdf).
 
 ## My work 
-I am working on modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 
+My research uses geometric methods to study the structure and representation theory of vertex algebras, that are algebraic structures appearing as symmetries of two-dimensional conformal field theories.
 
-<img src="fig/summary_spec_steps.PNG" alt="Summary of the speciation steps">
-
-_Summary of the speciation steps and the most common ways to estimate them in the nature._
-
-To do so I rely on a modelisation approach, for instance using the holey adaptive landscape to analyse the influence of the parameters such as population size, mutation rate, outbreeding depression on the time for speciation in allopatric or parapatric mode. 
-
-Additionnaly, I work on more macroevolutionnary models such as the protracted birth death model of speciation (PBD) to analyse the most influent steps of speciation (population splitting, accumulation of reproductive isolation, population survival). 
-
-<img src="fig/influence_parameters_speciation.PNG" alt="Influence on the speciation rate">
-
-_Most important steps of the speciation on the overall speciation rate._
+The vertex algebras I study (affine W-algebras, quiver vertex algebras) are deformations of the arc spaces of usually well-known Poisson varieties (Slodowy slices, Nakajima quiver varieties).
 
 ## Publications
 Veron, P., Andréoletti, J., Giraud, T., & Morlon, H. (2024). **Speciation completion rates have limited impact on macroevolutionary diversification**. _Philosophical Transactions of the Royal Society B, 380_, 20230317. doi: [10.1098/rstb.2023.0317](https://doi.org/10.1098/rstb.2023.0317) /  [PDF](docs/veron-et-al-2025-speciation-completion-rates-have-limited-impact-on-macroevolutionary-diversification.pdf) / [Sup. mat.](docs/PBD_analog_supp_mat.pdf)
