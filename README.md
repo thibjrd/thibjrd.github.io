@@ -11,12 +11,17 @@
     </tr>
 </table>
 
-## About
+## About me
+
 I'm a postdoctoral researcher at the University of Hamburg. My mentor is Sven Möller. 
 
 I prepared my Ph.D. under the supervision of Professor Anne Moreau, at the Institut de mathématiques d'Orsay (Université Paris-Saclay).
 
 My full résumé can be found [here](https://thibjrd.github.io/doc/CV.pdf).
+
+### Research topics
+
+I study the structure and representation theory of vertex algebras, which are algebraic structures appearing as symmetries of two-dimensional conformal field theories. The vertex algebras I study (affine W-algebras, quiver vertex algebras) are deformations of the arc spaces of usually well-known Poisson varieties (Slodowy slices, Nakajima varieties).
 
 ### Contact 
 
