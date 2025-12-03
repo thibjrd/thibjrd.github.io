@@ -46,7 +46,7 @@ Thibault Juillard. "Reduction by stages for W-algebras and applications. Univers
 #### École polytechnique 
 * *Euclidean and Hermitian spaces* (2024-2025), Bachelor 2.
 * *Differential geometry* (2023-2025), Bachelor 3.
-* *Series of functions, differential equations and Fourier series (2022-2023), Bachelor 2.
+* *Series of functions, differential equations and Fourier series* (2022-2023), Bachelor 2.
 
 #### École polytechnique fédérale de Lausane
 * *Geometry* (2021), Bachelor 2.
