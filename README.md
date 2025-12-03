@@ -24,7 +24,7 @@
 ## About
 I'm a postdoctoral researcher at the University of Hamburg. My mentor is Sven Möller. 
 
-I prepared my Phd under the supervision of Professor Anne Moreau, at the Institut de mathématiques d'Orsay (Université Paris-Saclay).
+I prepared my Ph.D. under the supervision of Professor Anne Moreau, at the Institut de mathématiques d'Orsay (Université Paris-Saclay).
 
 My full résumé can be found [here](https://thibjrd.github.io/docs/CV.pdf).
 
@@ -32,6 +32,9 @@ My full résumé can be found [here](https://thibjrd.github.io/docs/CV.pdf).
 My research uses geometric methods to study the structure and representation theory of vertex algebras, that are algebraic structures appearing as symmetries of two-dimensional conformal field theories.
 
 The vertex algebras I study (affine W-algebras, quiver vertex algebras) are deformations of the arc spaces of usually well-known Poisson varieties (Slodowy slices, Nakajima quiver varieties).
+
+### My Ph.D. thesis
+Thibault Juillard. Reduction by stages for W-algebras and applications. Representation Theory [math.RT]. Université Paris-Saclay, 2025. English. ⟨NNT : 2025UPASM014⟩. ⟨tel-05149024⟩
 
 ## Publications
 Veron, P., Andréoletti, J., Giraud, T., & Morlon, H. (2024). **Speciation completion rates have limited impact on macroevolutionary diversification**. _Philosophical Transactions of the Royal Society B, 380_, 20230317. doi: [10.1098/rstb.2023.0317](https://doi.org/10.1098/rstb.2023.0317) /  [PDF](docs/veron-et-al-2025-speciation-completion-rates-have-limited-impact-on-macroevolutionary-diversification.pdf) / [Sup. mat.](docs/PBD_analog_supp_mat.pdf)
