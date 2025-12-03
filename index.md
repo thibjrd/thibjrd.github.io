@@ -2,8 +2,7 @@
 
 <p align="center"><img src="profil.jpg" width=200></p>
   
-
-## About me
+<center><h2> About me </h2></center> 
 
 I'm a postdoctoral researcher at the **University of Hamburg**. My mentor is [Sven Möller](https://www.math.uni-hamburg.de/home/moeller/home.html). 
 
@@ -21,7 +20,7 @@ I study the structure and representation theory of vertex algebras, which are al
 
 📧 tjuillard [dot] math [at] proton [dot] ne 
 
-## Research
+<center><h2> Research </h2></center> 
 
 ### Pre-publication
 * Naoki Genra and Thibault Juillard. "Reduction by stages for affine W-algebras". (2025) [arXiv: 2501.04501](https://arxiv.org/abs/2501.04501).
@@ -34,7 +33,7 @@ Thibault Juillard. "Reduction by stages for W-algebras and applications. Univers
 
 A more recent version (with less typos) can be found [here](https://thibjrd.github.io/doc/publications/juillard-thibault_phd-thesis.pdf). 
 
-## Teaching 
+<center><h2> Teaching </h2></center> 
 
 ### Student
 * Ren Grégoire. "Symmetric invariants of the centraliser of a nilpotent element" (2026). [Abstract](https://thibjrd.github.io/doc/supervision/gregoire_proposal.pdf) in French.
@@ -52,7 +51,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Analysis 1* (2021), Bachelor 1.
 * *Group theory* (2021), Bachelor 2.
 
-## Talks 
+<center><h2> Talks </h2></center>  
 
 ### Conferences
 
@@ -62,7 +61,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 
 ### Poster
 
-## Misc
+<center><h2> Misc </h2></center> 
 
 
 –
