@@ -39,7 +39,7 @@ Naoki Genra and Thibault Juillard. "Reduction by stages for finite W-algebras". 
 ### My Ph.D. thesis
 Thibault Juillard. "Reduction by stages for W-algebras and applications. Université Paris-Saclay, 2025. English. [NNT : 2025UPASM014](https://theses.fr/2025UPASM014). [tel-05149024v1](https://theses.hal.science/tel-05149024v1).
 
-A more recent version (with less typos) can be found [here](doc/publications/juillard-thibault_phd-thesis.pdf). 
+A more recent version (with less typos) can be found [here](https://thibjrd.github.io/doc/publications/juillard-thibault_phd-thesis.pdf). 
 
 ## Teaching 
 
