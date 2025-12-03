@@ -43,6 +43,9 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 
 ## Teaching 
 
+### Student
+* Grégoire Ren. "Symmetric invariants of the centraliser of a nilpotent element" (2026).
+
 ### Supervision of exercise sessions
 
 #### École polytechnique 
