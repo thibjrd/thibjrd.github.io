@@ -1,4 +1,4 @@
-# Pierre Veron 
+# Thibault JUILLARD, mathematician
 <table>
     <tr>
         <td><img src="profil.jpg" width=200><p align="center">
