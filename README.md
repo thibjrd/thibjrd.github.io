@@ -75,4 +75,4 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 
 –
 
-Last update: 2025/09/30. © Pierre Veron. Photo © Klára Hlavatá 2025.
+Last update: 2025/12/04. © Thibault Juillard. Photo © Pierre Veron 2025.
