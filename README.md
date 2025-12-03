@@ -24,7 +24,7 @@ I study the structure and representation theory of vertex algebras, which are al
 ## Research
 
 ### Pre-publication
-* Naoki Genra and Thibault Juillard. "Reduction by stages for finite W-algebras". In: *Mathematische Zeitschrift* 308.1 (2024), Paper No. 15, 36. issn: 0025-5874,1432-1823. [doi: 10.1007/s00209-024-03567-9](https://doi.org/10.1007/s00209-024-03567-9). [arXiv: 2212.06022](https://arxiv.org/abs/2212.06022).
+* Naoki Genra and Thibault Juillard. "Reduction by stages for affine W-algebras". (2025) [arXiv: 2501.04501](https://arxiv.org/abs/2501.04501).
 
 ### Publication
 * Naoki Genra and Thibault Juillard. "Reduction by stages for finite W-algebras". In: *Mathematische Zeitschrift* 308.1 (2024), Paper No. 15, 36. issn: 0025-5874,1432-1823. [doi: 10.1007/s00209-024-03567-9](https://doi.org/10.1007/s00209-024-03567-9). [arXiv: 2212.06022](https://arxiv.org/abs/2212.06022).
