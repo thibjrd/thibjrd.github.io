@@ -13,9 +13,9 @@
 
 ## About me
 
-I'm a postdoctoral researcher at the University of Hamburg. My mentor is Sven Möller. 
+I'm a postdoctoral researcher at the University of Hamburg. My mentor is [Sven Möller](https://www.math.uni-hamburg.de/home/moeller/home.html). 
 
-I prepared my Ph.D. under the supervision of Professor Anne Moreau, at the Institut de mathématiques d'Orsay (Université Paris-Saclay).
+I prepared my Ph.D. under the supervision of Professor [Anne Moreau](https://www.imo.universite-paris-saclay.fr/~anne.moreau/), at the Institut de mathématiques d'Orsay (Université Paris-Saclay).
 
 My full résumé can be found [here](https://thibjrd.github.io/doc/CV.pdf).
 
