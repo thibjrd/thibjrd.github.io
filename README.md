@@ -31,17 +31,6 @@ My full résumé can be found [here](https://thibjrd.github.io/docs/CV.pdf).
 ## Publications
 Naoki Genra and Thibault Juillard. "Reduction by stages for finite W-algebras". In: *Mathematische Zeitschrift* 308.1 (2024), Paper No. 15, 36. issn: 0025-5874,1432-1823. [doi: 10.1007/s00209-024-03567-9](https://doi.org/10.1007/s00209-024-03567-9). [arXiv: 2212.06022](https://arxiv.org/abs/2212.06022).
 
-
-
-Veron, P., Andréoletti, J., Giraud, T., & Morlon, H. (2024). **Speciation completion rates have limited impact on macroevolutionary diversification**. _Philosophical Transactions of the Royal Society B, 380_, 20230317. doi: [10.1098/rstb.2023.0317](https://doi.org/10.1098/rstb.2023.0317) /  [PDF](docs/veron-et-al-2025-speciation-completion-rates-have-limited-impact-on-macroevolutionary-diversification.pdf) / [Sup. mat.](docs/PBD_analog_supp_mat.pdf)
- 
-
-Morlon, H., Andréoletti, J., Barido-Sottani, J., Lambert, S., Perez-Lamarque, B., Quintero, I., Senderov, V. and Veron, P. (2024). **Phylogenetic Insights into Diversification**. _Annual Review of Ecology, Evolution, and Systematics, 55_, 1–21. doi: [10.1146/annurev-ecolsys-102722-020508](https://doi.org/10.1146/annurev-ecolsys-102722-020508)
- 
-
-Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M., Lorance, P., Valentini, A., Polanco, A. F., Pellissier, L., Eme, D. and Albouy, C. (2023). **Environmental DNA complements scientific trawling in surveys of marine fish biodiversity**. _ICES Journal of Marine Science, 80_(8), 2150–2165. doi: [10.1093/icesjms/fsad139](https://doi.org/10.1093/icesjms/fsad139) / [PDF](docs/Veron2023eDNA.pdf) / [Sup. mat.](docs/Veron2023eDNA_suppmat.pdf)
- 
-
 ### My Ph.D. thesis
 Thibault Juillard. "Reduction by stages for W-algebras and applications. Université Paris-Saclay, 2025. English. [NNT : 2025UPASM014](https://theses.fr/2025UPASM014). [tel-05149024v1](https://theses.hal.science/tel-05149024v1).
 
