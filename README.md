@@ -28,15 +28,11 @@ I prepared my Ph.D. under the supervision of Professor Anne Moreau, at the Insti
 
 My full résumé can be found [here](https://thibjrd.github.io/docs/CV.pdf).
 
-## My work 
-My research uses geometric methods to study the structure and representation theory of vertex algebras, that are algebraic structures appearing as symmetries of two-dimensional conformal field theories.
-
-The vertex algebras I study (affine W-algebras, quiver vertex algebras) are deformations of the arc spaces of usually well-known Poisson varieties (Slodowy slices, Nakajima quiver varieties).
-
-### My Ph.D. thesis
-Thibault Juillard. "Reduction by stages for W-algebras and applications. Université Paris-Saclay, 2025. English. [NNT : 2025UPASM014](https://theses.fr/2025UPASM014). [tel-05149024v1](https://theses.hal.science/tel-05149024v1).
-
 ## Publications
+Naoki Genra and Thibault Juillard. "Reduction by stages for finite W-algebras". In: *Math. Z.* 308.1 (2024), Paper No. 15, 36. issn: 0025-5874,1432-1823. [doi: 10.1007/s00209-024-03567-9](https://doi.org/10.1007/s00209-024-03567-9).
+
+
+
 Veron, P., Andréoletti, J., Giraud, T., & Morlon, H. (2024). **Speciation completion rates have limited impact on macroevolutionary diversification**. _Philosophical Transactions of the Royal Society B, 380_, 20230317. doi: [10.1098/rstb.2023.0317](https://doi.org/10.1098/rstb.2023.0317) /  [PDF](docs/veron-et-al-2025-speciation-completion-rates-have-limited-impact-on-macroevolutionary-diversification.pdf) / [Sup. mat.](docs/PBD_analog_supp_mat.pdf)
  
 
@@ -46,6 +42,8 @@ Morlon, H., Andréoletti, J., Barido-Sottani, J., Lambert, S., Perez-Lamarque, B
 Veron, P., Rozanski, R., Marques, V., Joost, S., Deschez, M. E., Trenkel, V. M., Lorance, P., Valentini, A., Polanco, A. F., Pellissier, L., Eme, D. and Albouy, C. (2023). **Environmental DNA complements scientific trawling in surveys of marine fish biodiversity**. _ICES Journal of Marine Science, 80_(8), 2150–2165. doi: [10.1093/icesjms/fsad139](https://doi.org/10.1093/icesjms/fsad139) / [PDF](docs/Veron2023eDNA.pdf) / [Sup. mat.](docs/Veron2023eDNA_suppmat.pdf)
  
 
+### My Ph.D. thesis
+Thibault Juillard. "Reduction by stages for W-algebras and applications. Université Paris-Saclay, 2025. English. [NNT : 2025UPASM014](https://theses.fr/2025UPASM014). [tel-05149024v1](https://theses.hal.science/tel-05149024v1).
 
 ## Teaching 
 **2024 – 2025**
