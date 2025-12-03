@@ -26,14 +26,7 @@ I'm a postdoctoral researcher at the University of Hamburg. My mentor is Sven M�
 
 I prepared my Phd under the supervision of Professor Anne Moreau, at the Institut de mathématiques d'Orsay (Université Paris-Saclay).
 
-<p align="center">
-   <a href="https://www.ibens.bio.ens.psl.eu/?lang=en" target="_blank"><img src="icons/ibens.png" alt="IBENS" height=70></a>
-   <a href="https://www.ens.psl.eu/en" target="_blank"><img src="icons/ens-psl.png" alt="ENS-PSL" height=70></a>
-    <a href="https://www.ese.universite-paris-saclay.fr/en/homepage/" target="_blank"><img src="icons/ese.png" alt="ESE" height=70></a>
-   <a href="https://www.universite-paris-saclay.fr/en"><img src="icons/logo_psaclay.png" alt="CV" height=70></a>
-</p>
-
-My full résumé can be found [here](https://pierre-veron.github.io/docs/CV.pdf).
+My full résumé can be found [here](https://thibjrd.github.io/docs/CV.pdf).
 
 ## My work 
 I am working on modelisation of the different steps of speciation, with the aim to understand which microevolutionary processes modulate the rates of speciation in the living world. 
