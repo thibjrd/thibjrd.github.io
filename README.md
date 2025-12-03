@@ -29,7 +29,7 @@ I prepared my Ph.D. under the supervision of Professor Anne Moreau, at the Insti
 My full résumé can be found [here](https://thibjrd.github.io/docs/CV.pdf).
 
 ## Publications
-Naoki Genra and Thibault Juillard. "Reduction by stages for finite W-algebras". In: *Math. Z.* 308.1 (2024), Paper No. 15, 36. issn: 0025-5874,1432-1823. [doi: 10.1007/s00209-024-03567-9](https://doi.org/10.1007/s00209-024-03567-9). [arXiv: 2212.06022](https://arxiv.org/abs/2212.06022).
+Naoki Genra and Thibault Juillard. "Reduction by stages for finite W-algebras". In: *Mathematische Zeitschrift* 308.1 (2024), Paper No. 15, 36. issn: 0025-5874,1432-1823. [doi: 10.1007/s00209-024-03567-9](https://doi.org/10.1007/s00209-024-03567-9). [arXiv: 2212.06022](https://arxiv.org/abs/2212.06022).
 
 
 
