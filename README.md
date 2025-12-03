@@ -1,6 +1,6 @@
 # Thibault JUILLARD, mathematician
 
-<img src="profil.jpg" width=200><p align="center">
+<p align="center"><img src="profil.jpg" width=200></p>
   
 
 ## About me
