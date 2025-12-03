@@ -1,15 +1,7 @@
 # Thibault JUILLARD, mathematician
-<table>
-    <tr>
-        <td><img src="profil.jpg" width=200><p align="center">
-   <a href="https://cv.hal.science/pierre-veron"><img src="icons/hal.png" alt="CV HAL" width=40></a>
-   <a href="https://scholar.google.com/citations?user=zMhd4LMAAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
-   <a href="https://orcid.org/0000-0003-2896-4250" target="_blank"><img src="icons/orcid.png" alt="ORCID" width=40></a>
-    <a href="https://github.com/pierre-veron"><img src="icons/github.jpg" alt="Github" width=40></a>
-</p>
-        </td>
-    </tr>
-</table>
+
+<img src="profil.jpg" width=200><p align="center">
+  
 
 ## About me
 
