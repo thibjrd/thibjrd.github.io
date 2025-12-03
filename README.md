@@ -8,16 +8,6 @@
     <a href="https://github.com/pierre-veron"><img src="icons/github.jpg" alt="Github" width=40></a>
 </p>
         </td>
-        <td>
-            <a href="#about">👋 About</a><br>
-            <a href="#my-work">💻 My work</a><br>
-            <a href="#research">📃 Research </a><br>
-            <a href="#teaching">🧑‍🏫 Teaching</a><br>
-            <a href="#talks-and-posters">💬 Talks and posters</a><br>
-            <a href="#contact">📧 Contact</a><br>
-            <a href="#misc">ℹ️ Misc</a><br>
-            <a href="https://pierre-veron.github.io/docs/CV.pdf">🎓 CV</a><br>
-        </td>
     </tr>
 </table>
 
@@ -27,6 +17,9 @@ I'm a postdoctoral researcher at the University of Hamburg. My mentor is Sven M�
 I prepared my Ph.D. under the supervision of Professor Anne Moreau, at the Institut de mathématiques d'Orsay (Université Paris-Saclay).
 
 My full résumé can be found [here](https://thibjrd.github.io/doc/CV.pdf).
+
+### Contact 
+📧 pveron [at] bio.ens.psl [dot] eu 
 
 ## Research
 
@@ -68,9 +61,6 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 ### Reading groups
 
 ### Poster
-
-## Contact 
-📧 pveron [at] bio.ens.psl [dot] eu 
 
 ## Misc
 * I am a member of the [MMB chair](http://www.cmap.polytechnique.fr/chaire-mmb/index.html), an interdisciplinary research group on the modelling and mathematics of biology, supported by the École polytechnique and the Muséum national d'histoire naturelle in Paris
