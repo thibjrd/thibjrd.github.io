@@ -42,36 +42,17 @@ Thibault Juillard. "Reduction by stages for W-algebras and applications. Univers
 ## Teaching 
 
 ### Supervision of exercise sessions
-* *Euclidean and Hermitian spaces* (2024-2025) Bachelor 2, Polytechnique, Paris, France.
 
-2024 – 2025]
-2023 – 2025]Diﬀerential geometry, Bachelor 3, Polytechnique, Paris, France.
-2022 – 2023]Series of functions, diﬀerential equations, Bachelor 2, Polytechnique, Paris, France.
-2021]Geometry, Bachelor 2, EPFL, Lausanne, Switzerland.
-]Linear algebra 1, Bachelor 1, EPFL, Lausanne, Switzerland.
-]Analysis 1, Bachelor 1, EPFL, Lausanne, Switzerland.
-]Group theory, Bachelor 2, EPFL, Lausanne, Switzerland.
+#### École polytechnique 
+* *Euclidean and Hermitian spaces* (2024-2025), Bachelor 2.
+* *Differential geometry* (2023-2025), Bachelor 3.
+* *Series of functions, differential equations and Fourier series (2022-2023), Bachelor 2.
 
-
-
-
-**2024 – 2025**
-* **Adaptive dynamics**, *exercises sessions* –  Master 2 IMaLiS*.
-* **Maths training**, *courses* - L3 and M1 students*. The course covers differential equations, dynamical systems, elementary linear algebra, Markov chains, probabilities and statistics. The course website I created can be found [here](https://codimd.math.cnrs.fr/s/hmbX8GuA4#).
-* **Open Science**, *projects* –  Licence 3*
-* **Python for biologists**, *exercises sessions* – Licence 3*.
-
-**2023 –  2024**
-* **Adaptive dynamics**, *exercises sessions* –  Master 2 IMaLiS*.
-* **Maths training**, *courses* –  L3 and M1 students*. 
-* **Biostatistics**, *projects* –  Licence 3*.
-* **Computational biology**, *exercises sessions* –  Licence 3*. 
-
-**2022 –  2023**
-* **Adaptive dynamics**, *exercises sessions* –  Master 2 IMaLiS*.
-* **Computational biology**, *exercises sessions* –  Licence 3*. 
-
-\* = course given at the biology department, École normale supérieure - PSL
+#### École polytechnique fédérale de Lausane
+* *Geometry* (2021), Bachelor 2.
+* *Linear algebra* (2021), Bachelor 1.
+* *Analysis 1* (2021), Bachelor 1.
+* *Group theory* (2021), Bachelor 2.
 
 ## Talks and posters 
 * A multidimensional view of speciation: bridging micro and macro-evolution, CNRS Conférence Jacques Monod (talk) - October 21, 2025 - Roscoff, France
