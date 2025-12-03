@@ -40,6 +40,21 @@ Naoki Genra and Thibault Juillard. "Reduction by stages for finite W-algebras". 
 Thibault Juillard. "Reduction by stages for W-algebras and applications. Université Paris-Saclay, 2025. English. [NNT : 2025UPASM014](https://theses.fr/2025UPASM014). [tel-05149024v1](https://theses.hal.science/tel-05149024v1).
 
 ## Teaching 
+
+### Supervision of exercise sessions
+* *Euclidean and Hermitian spaces* (2024-2025) Bachelor 2, Polytechnique, Paris, France.
+
+2024 – 2025]
+2023 – 2025]Diﬀerential geometry, Bachelor 3, Polytechnique, Paris, France.
+2022 – 2023]Series of functions, diﬀerential equations, Bachelor 2, Polytechnique, Paris, France.
+2021]Geometry, Bachelor 2, EPFL, Lausanne, Switzerland.
+]Linear algebra 1, Bachelor 1, EPFL, Lausanne, Switzerland.
+]Analysis 1, Bachelor 1, EPFL, Lausanne, Switzerland.
+]Group theory, Bachelor 2, EPFL, Lausanne, Switzerland.
+
+
+
+
 **2024 – 2025**
 * **Adaptive dynamics**, *exercises sessions* –  Master 2 IMaLiS*.
 * **Maths training**, *courses* - L3 and M1 students*. The course covers differential equations, dynamical systems, elementary linear algebra, Markov chains, probabilities and statistics. The course website I created can be found [here](https://codimd.math.cnrs.fr/s/hmbX8GuA4#).
