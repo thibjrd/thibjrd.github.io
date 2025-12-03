@@ -19,7 +19,9 @@ I prepared my Ph.D. under the supervision of Professor Anne Moreau, at the Insti
 My full résumé can be found [here](https://thibjrd.github.io/doc/CV.pdf).
 
 ### Contact 
+
 📧 thibault [dot] juillard [at] uni-hamburg [dot] de
+
 📧 tjuillard [dot] math [at] proton [dot] ne 
 
 ## Research
