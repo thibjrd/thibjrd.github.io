@@ -1,4 +1,4 @@
-# Thibault JUILLARD, mathematician
+<center><h1> Thibault JUILLARD, mathematician </h1></center> 
 
 <p align="center"><img src="profil.jpg" width=200></p>
   
