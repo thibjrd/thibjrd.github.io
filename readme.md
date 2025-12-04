@@ -95,7 +95,8 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 <center><h2> Miscellaneous </h2></center> 
 
 ### Fighting discriminations
-
+* [*Queer and Trans Mathematicians in Algebra and Representation Theory*](https://math-events.uni-bonn.de/event/104/), University of Bonn, Germany.
+* [*Journées parité en mathématiques*](http://postes.smai.emath.fr/apres/parite/journee2024/) (July 2024), Institut de Mathématiques de Marseille, France. I was part of a public discussion about the inclusion of LGBT+ people in the mathematical community.
 
 
 –––––––
