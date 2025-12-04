@@ -40,7 +40,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 <center><h2> Talks </h2></center>  
 
 ### Conferences
-* *Reduction by stages for affine W-algebras* (November 2025). "CRC retreat", Büsum, Germany.
+* *Reduction by stages for affine W-algebras* (November 2025). "[Collaborative Research Center](https://www.sfb1624.uni-hamburg.de/) retreat", Büsum, Germany.
 * *Reduction by stages for affine W-algebras* (October 2025). ["Collaborations in algebra, representation theory and ethics"](https://sites.google.com/uniroma1.it/caremath/home-page), École normale supérieure de Lyon, France.
 * *Reduction by stages for affine W-algebras* (July 2025). ["Queer and Trans Mathematicians in Algebra and Representation Theory"](https://math-events.uni-bonn.de/event/104/), University of Bonn, Germany.
 * *Reduction by stages, a geometric approach* (June 2025). ["Representation theory XIX"](https://web.math.pmf.unizg.hr/congress/Dubrovnik25/), Inter-University Centre, Dubrovnik, Croatia.
