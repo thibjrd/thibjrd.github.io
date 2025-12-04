@@ -2,7 +2,7 @@
 
 <p align="center"><img src="profil.jpg" width=200></p>
   
-<center><h2> :card_index: About me </h2></center> 
+<center><h2> #card_index About me </h2></center> 
 
 I'm a postdoctoral researcher at the **University of Hamburg**. My mentor is [Sven Möller](https://www.math.uni-hamburg.de/home/moeller/home.html). My position is funded, through the Emmy Noether Programme, by the Deutsche Forschungsgemeinschaft (project number [460925688](https://gepris.dfg.de/gepris/projekt/460925688?language=en)).
 
