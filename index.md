@@ -58,6 +58,9 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 ### Seminars
 
 ### Reading groups
+* 
+* *Double poisson vertex algebras* (April 2023). "[Hall algebras and vertex algebras in enumerative geometry](https://sites.google.com/site/bendavisonmath/skye-2023)", Skye Island, Scotland.
+* *Character variety and tautological classes* (January 2023). "P=W conjecture", Institut de mathématiques d'Orsay.
 
 ### Poster
 
@@ -70,7 +73,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 
 ### Outreach
 * [APEX-Maths](https://imar.ro/~apex2024/index.html) (2024), Reșița, Romania. Three-week program to initiate high school students to mathematical research. I was in charge of problem sessions in Number Theory and Topology.
-* *[Astromaths camp](https://www.fondation-blaise-pascal.org/nos-actions/les-projets-de-la-fondation/le-camp-astromaths/)* (2021-2024). Two-week summer camp for high-school students. I was giving lectures about mathematics and Kepler laws.
+* *[Astromaths camp](https://www.fondation-blaise-pascal.org/nos-actions/les-projets-de-la-fondation/le-camp-astromaths/)* (2021-2024), Chambon-sur-Lignon, France. Two-week summer camp for high-school students. I was giving lectures about mathematics and Kepler laws.
 
 <center><h2> Misc </h2></center> 
 
