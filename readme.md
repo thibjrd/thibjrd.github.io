@@ -2,7 +2,7 @@
 
 <p align="center"><img src="profil.jpg" width=200></p>
   
-<center><h2> About me </h2></center> 
+<center><h2> :card_index: About me </h2></center> 
 
 I'm a postdoctoral researcher at the **University of Hamburg**. My mentor is [Sven Möller](https://www.math.uni-hamburg.de/home/moeller/home.html). My position is funded, through the Emmy Noether Programme, by the Deutsche Forschungsgemeinschaft (project number [460925688](https://gepris.dfg.de/gepris/projekt/460925688?language=en)).
 
@@ -10,22 +10,22 @@ I did my Ph.D. under the supervision of Professor [Anne Moreau](https://www.imo.
 
 My full résumé can be found [here](https://thibjrd.github.io/doc/CV.pdf).
 
-### Representation theory, algebraic geometry and mathematical physics
+### :bulb: Representation theory, algebraic geometry and mathematical physics
 
 I use geometric methods to study the structure and representation theory of **vertex algebras**, which are algebraic structures appearing as symmetries of two-dimensional conformal field theories. The vertex algebras I study (affine W-algebras, quiver vertex algebras) are deformations of the arc spaces of usually well-known Poisson varieties (Slodowy slices, Nakajima varieties).
 
-### How to adress me 
+### :loudspeaker: How to adress me 
 * Languages: French (native), English (fluent), Spanish (intermediary), German (novice, don't expect me to understand).
 * Pronunciation of my first name: [ti.bo].
 * Pronouns: he/him.
 
-### Contact 
+### :postbox: Contact 
 
-📧 thibault [dot] juillard [at] uni-hamburg [dot] de
+* thibault [dot] juillard [at] uni-hamburg [dot] de
 
-📧 tjuillard [dot] math [at] proton [dot] me 
+* tjuillard [dot] math [at] proton [dot] me 
 
-<center><h2> Publications </h2></center> 
+<center><h2> :page_with_curl: Publications </h2></center> 
 
 ### Preprint
 * Naoki Genra and Thibault Juillard (2025). "Reduction by stages for affine W-algebras". [arXiv: 2501.04501](https://arxiv.org/abs/2501.04501).
@@ -33,12 +33,12 @@ I use geometric methods to study the structure and representation theory of **ve
 ### Published article
 * Naoki Genra and Thibault Juillard (2024). "Reduction by stages for finite W-algebras". In: *Mathematische Zeitschrift* 308.1, Paper No. 15, 36. issn: 0025-5874,1432-1823. [doi: 10.1007/s00209-024-03567-9](https://doi.org/10.1007/s00209-024-03567-9). [arXiv: 2212.06022](https://arxiv.org/abs/2212.06022).
 
-### My Ph.D. thesis
+### :notebook_with_decorative_cover: My Ph.D. thesis
 Thibault Juillard. "Reduction by stages for W-algebras and applications". Université Paris-Saclay, 13th of June 2025. English. [NNT : 2025UPASM014](https://theses.fr/2025UPASM014). [tel-05149024v1](https://theses.hal.science/tel-05149024v1).
 
 A more recent version (with less typos) can be found [here](https://thibjrd.github.io/doc/publications/juillard-thibault_phd-thesis.pdf). 
 
-<center><h2> Talks </h2></center>  
+<center><h2> :microphone: Talks </h2></center>  
 
 ### Conferences
 * *Reduction by stages for affine W-algebras* (November 2025). "[Collaborative Research Center](https://www.sfb1624.uni-hamburg.de/) retreat", Büsum, Germany.
@@ -64,7 +64,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Reduction by stages for affine W-algebras* (January 2025). [PDF](https://thibjrd.github.io/doc/talks/poster.pdf).
 
 
-<center><h2> Teaching </h2></center> 
+<center><h2> :books: Teaching </h2></center> 
 
 ### Student
 * Ren Grégoire (2026), Master 1 internship. "Symmetric invariants of the centraliser of a nilpotent element". [Abstract](https://thibjrd.github.io/doc/supervision/gregoire_proposal.pdf) in French.
@@ -82,20 +82,20 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Analysis 1* (2021), Bachelor 1.
 * *Group theory* (2021), Bachelor 2.
 
-<center><h2> Event organisation </h2></center> 
+<center><h2> :pizza: Event organisation </h2></center> 
 
-### Seminars
+### :mortar_board: Seminars
 
 * *[Réseau des étudiant-es en geométrie algérique (RéGA)](https://indico.math.cnrs.fr/category/287/)* (2023-2025), Institut Henri Poincaré. Algebraic geometry seminar for young researchers.
 * *Popularisation seminar for Ph.D. students* (2022-2023), Institut de mathématiques d'Orsay.
 
-### Outreach
+### :sparkler: Outreach
 * *[APEX-Maths](https://imar.ro/~apex2024/index.html)* (2024), Reșița, Romania. Three-week program to introduce high school students to mathematical research. I was in charge of problem sessions in Number Theory and Topology.
-* *[Astromaths camp](https://www.fondation-blaise-pascal.org/nos-actions/les-projets-de-la-fondation/le-camp-astromaths/)* (2021-2024), Chambon-sur-Lignon, France. Two-week summer camp for high-school students. I was giving lectures about mathematics and Kepler laws.
+* :milky_way: *[Astromaths camp](https://www.fondation-blaise-pascal.org/nos-actions/les-projets-de-la-fondation/le-camp-astromaths/)* (2021-2024), Chambon-sur-Lignon, France. Two-week summer camp for high-school students. I was giving lectures about mathematics and Kepler laws.
 
-<center><h2> Miscellaneous </h2></center> 
+<center><h2> :carousel_horse: Miscellaneous </h2></center> 
 
-### Fighting discriminations
+### :rainbow: Fighting discriminations
 * [*Queer and Trans Mathematicians in Algebra and Representation Theory*](https://math-events.uni-bonn.de/event/104/) (July 2025), University of Bonn, Germany. I was a participant to QTMART, which is a workshop on algebra and representation theory, run by and for queer and trans mathematicians.
 * [*Journées parité en mathématiques*](http://postes.smai.emath.fr/apres/parite/journee2024/) (July 2024), Institut de Mathématiques de Marseille, France. I was part of a public discussion about the inclusion of LGBT+ people in the mathematical community.
 
