@@ -1,3 +1,4 @@
 name: Thibault Juillard
 title: false
-gems: ["jemoji"]
+plugins:
+  - jemoji
