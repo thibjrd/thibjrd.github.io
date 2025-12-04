@@ -19,7 +19,7 @@ I use geometric methods to study the structure and representation theory of **ve
 
 📧 thibault [dot] juillard [at] uni-hamburg [dot] de
 
-📧 tjuillard [dot] math [at] proton [dot] ne 
+📧 tjuillard [dot] math [at] proton [dot] me 
 
 <center><h2> Research </h2></center> 
 
@@ -37,6 +37,8 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 <center><h2> Talks </h2></center>  
 
 ### Conferences
+
+* *Reduction by stages for finite W-algebras* (October 2022). ["Workshop in qunatum symmetries"](https://sites.google.com/view/crm-2022-qs/home), Centre de recherche en mathématiques, Montréal, Canada. 
 
 ### Seminars
 
