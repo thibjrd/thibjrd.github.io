@@ -21,12 +21,12 @@ I use geometric methods to study the structure and representation theory of **ve
 
 📧 tjuillard [dot] math [at] proton [dot] me 
 
-<center><h2> Research </h2></center> 
+<center><h2> Publications </h2></center> 
 
-### Pre-publication
+### Preprint
 * Naoki Genra and Thibault Juillard (2025). "Reduction by stages for affine W-algebras". [arXiv: 2501.04501](https://arxiv.org/abs/2501.04501).
 
-### Publication
+### Published article
 * Naoki Genra and Thibault Juillard (2024). "Reduction by stages for finite W-algebras". In: *Mathematische Zeitschrift* 308.1, Paper No. 15, 36. issn: 0025-5874,1432-1823. [doi: 10.1007/s00209-024-03567-9](https://doi.org/10.1007/s00209-024-03567-9). [arXiv: 2212.06022](https://arxiv.org/abs/2212.06022).
 
 ### My Ph.D. thesis
@@ -37,6 +37,8 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 <center><h2> Talks </h2></center>  
 
 ### Conferences
+* *Reduction by stages for affine W-algebras* (November 2025). "CRC retreat", Büsum, Germany.
+* *Reduction by stages for affine W-algebras* (October 2025). ["Collaborations in algebra, representation theory and ethics"](https://sites.google.com/uniroma1.it/caremath/home-page), École normale supérieure de Lyon, France.
 * *Reduction by stages for affine W-algebras* (July 2025). ["Queer and Trans Mathematicians in Algebra and Representation Theory"](https://math-events.uni-bonn.de/event/104/), University of Bonn, Germany.
 * *Reduction by stages, a geometric approach* (June 2025). ["Representation theory XIX"](https://web.math.pmf.unizg.hr/congress/Dubrovnik25/), Inter-University Centre, Dubrovnik, Croatia.
 * *Reduction by stages for W-algebras* (June 2024). ["Vertex algebras, geometric representation theory and quantum groups"](https://conferences.cirm-math.fr/3045.html), Centre international de rencontres en mathématiques, Luminy, France.
