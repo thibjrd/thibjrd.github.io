@@ -49,7 +49,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Character variety and tautological classes* (January 2023). "P=W conjecture", Institut de mathématiques d'Orsay.
 
 ### Poster
-This [poster](https://thibjrd.github.io/doc/talks/poster.pdf) summarises my Ph.D. project.
+* *Reduction by stages for affine W-algebras* (January 2025). [PDF](https://thibjrd.github.io/doc/talks/poster.pdf).
 
 
 <center><h2> Teaching </h2></center> 
