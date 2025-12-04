@@ -6,7 +6,7 @@
 
 I'm a postdoctoral researcher at the **University of Hamburg**. My mentor is [Sven Möller](https://www.math.uni-hamburg.de/home/moeller/home.html). 
 
-I prepared my Ph.D. under the supervision of Professor [Anne Moreau](https://www.imo.universite-paris-saclay.fr/~anne.moreau/), at the Institut de mathématiques d'Orsay (Université Paris-Saclay).
+I did my Ph.D. under the supervision of Professor [Anne Moreau](https://www.imo.universite-paris-saclay.fr/~anne.moreau/), at the Institut de mathématiques d'Orsay (Université Paris-Saclay).
 
 My full résumé can be found [here](https://thibjrd.github.io/doc/CV.pdf).
 
@@ -58,7 +58,10 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 ### Seminars
 
 ### Reading groups
-* 
+* *Symplectic geometry and characteristic varieties* (January 2025). ["D-modules"](https://www.imo.universite-paris-saclay.fr/fr/conf/dmod2425/), Institut de mathématiques d'Orsay.
+* *Examples of GIT construction: quiver varieties* (March 2024). "Good moduli stacks", Institut de mathématiques d'Orsay.
+* *Equivariant sheaves and linearisations in GIT* (February 2024). "Good moduli stacks", Institut de mathématiques d'Orsay.
+* *Geometric invariant theory* (November 2023). "Good moduli stacks", Institut de mathématiques d'Orsay.
 * *Double poisson vertex algebras* (April 2023). "[Hall algebras and vertex algebras in enumerative geometry](https://sites.google.com/site/bendavisonmath/skye-2023)", Skye Island, Scotland.
 * *Character variety and tautological classes* (January 2023). "P=W conjecture", Institut de mathématiques d'Orsay.
 
