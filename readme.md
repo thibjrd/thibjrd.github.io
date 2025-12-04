@@ -2,7 +2,7 @@
 
 <p align="center"><img src="profil.jpg" width=200></p>
   
-<center><h2> 📇 About me </h2></center> 
+<center><h2> :card_index: About me </h2></center> 
 
 I'm a postdoctoral researcher at the **University of Hamburg**. My mentor is [Sven Möller](https://www.math.uni-hamburg.de/home/moeller/home.html). My position is funded, through the Emmy Noether Programme, by the Deutsche Forschungsgemeinschaft (project number [460925688](https://gepris.dfg.de/gepris/projekt/460925688?language=en)).
 
@@ -10,16 +10,16 @@ I did my Ph.D. under the supervision of Professor [Anne Moreau](https://www.imo.
 
 My full résumé can be found [here](https://thibjrd.github.io/doc/CV.pdf).
 
-### 💡 Representation theory, algebraic geometry and mathematical physics
+### :bulb: Representation theory, algebraic geometry and mathematical physics
 
 I use geometric methods to study the structure and representation theory of **vertex algebras**, which are algebraic structures appearing as symmetries of two-dimensional conformal field theories. The vertex algebras I study (affine W-algebras, quiver vertex algebras) are deformations of the arc spaces of usually well-known Poisson varieties (Slodowy slices, Nakajima varieties).
 
-### 📢 How to adress me 
+### :loudspeaker: How to adress me 
 * Languages: French (native), English (fluent), Spanish (intermediary), German (novice, don't expect me to understand).
 * Pronunciation of my first name: [ti.bo].
 * Pronouns: he/him.
 
-### 📮 Contact 
+### :mailbox_closed: Contact 
 
 * thibault [dot] juillard [at] uni-hamburg [dot] de
 
