@@ -4,13 +4,13 @@
   
 <center><h2> About me </h2></center> 
 
-I'm a postdoctoral researcher at the **University of Hamburg**. My mentor is [Sven Möller](https://www.math.uni-hamburg.de/home/moeller/home.html). 
+I'm a postdoctoral researcher at the **University of Hamburg**. My mentor is [Sven Möller](https://www.math.uni-hamburg.de/home/moeller/home.html). My position is funded by through Emmy Noether Programme by the Deutsche Forschungsgemeinschaft (project number [460925688](https://gepris.dfg.de/gepris/projekt/460925688?language=en)).
 
 I did my Ph.D. under the supervision of Professor [Anne Moreau](https://www.imo.universite-paris-saclay.fr/~anne.moreau/), at the Institut de mathématiques d'Orsay (Université Paris-Saclay, France).
 
 My full résumé can be found [here](https://thibjrd.github.io/doc/CV.pdf).
 
-### Representation theory, algebraic geometry and mathematical physcis
+### Representation theory, algebraic geometry and mathematical physics
 
 I use geometric methods to study the structure and representation theory of **vertex algebras**, which are algebraic structures appearing as symmetries of two-dimensional conformal field theories. The vertex algebras I study (affine W-algebras, quiver vertex algebras) are deformations of the arc spaces of usually well-known Poisson varieties (Slodowy slices, Nakajima varieties).
 
