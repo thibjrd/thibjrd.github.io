@@ -74,7 +74,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 
 ### Seminars
 
-* *[Réseau des étudiant-es en geométrie algérique (RéGA)](https://indico.math.cnrs.fr/category/287/)* (2025), Institut Henri Poincaré. Algebraic geometry seminar for young researchers.
+* *[Réseau des étudiant-es en geométrie algérique (RéGA)](https://indico.math.cnrs.fr/category/287/)* (2023-2025), Institut Henri Poincaré. Algebraic geometry seminar for young researchers.
 * *Popularisation seminar for Ph.D. students* (2022-2023), Institut de mathématiques d'Orsay.
 
 ### Outreach
