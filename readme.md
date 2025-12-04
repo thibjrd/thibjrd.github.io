@@ -37,8 +37,12 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 <center><h2> Talks </h2></center>  
 
 ### Conferences
-
-* *Reduction by stages for finite W-algebras* (October 2022). ["Workshop in qunatum symmetries"](https://sites.google.com/view/crm-2022-qs/home), Centre de recherche en mathématiques, Montréal, Canada. 
+* *Reduction by stages for affine W-algebras* (July 2025). ["Queer and Trans Mathematicians in Algebra and Representation Theory"](https://math-events.uni-bonn.de/event/104/), University of Bonn, Germany.
+* *Reduction by stages, a geometric approach* (June 2025). ["Representation theory XIX"](https://web.math.pmf.unizg.hr/congress/Dubrovnik25/), Inter-University Centre, Dubrovnik, Croatia.
+* *Reduction by stages for W-algebras* (June 2024). ["Vertex algebras, geometric representation theory and quantum groups"](https://conferences.cirm-math.fr/3045.html), Centre international de rencontres en mathématiques, Luminy, France.
+* *Chiralisation of reduction by stages* (June 2024). ["Groups and their actions"](https://gaagc24.github.io/), Levico Terme, Italy. 
+* *Reduction by stages for W-algebras* (January 2024). ["Winter school in mathematical physics"](https://indico.global/event/9606/), Les Diablerets, Switzerland.
+* *Reduction by stages for finite W-algebras* (October 2022). ["Workshop in quantum symmetries"](https://sites.google.com/view/crm-2022-qs/home), Centre de recherche en mathématiques, Montréal, Canada. 
 
 ### Seminars
 
@@ -47,7 +51,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Examples of GIT construction: quiver varieties* (March 2024). "Good moduli stacks", Institut de mathématiques d'Orsay.
 * *Equivariant sheaves and linearisations in GIT* (February 2024). "Good moduli stacks", Institut de mathématiques d'Orsay.
 * *Geometric invariant theory* (November 2023). "Good moduli stacks", Institut de mathématiques d'Orsay.
-* *Double poisson vertex algebras* (April 2023). "[Hall algebras and vertex algebras in enumerative geometry](https://sites.google.com/site/bendavisonmath/skye-2023)", Skye Island, Scotland.
+* *Double poisson vertex algebras* (April 2023). ["Hall algebras and vertex algebras in enumerative geometry"](https://sites.google.com/site/bendavisonmath/skye-2023), Skye Island, Scotland.
 * *Character variety and tautological classes* (January 2023). "P=W conjecture", Institut de mathématiques d'Orsay.
 
 ### Poster
