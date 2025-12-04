@@ -1,4 +1,4 @@
-<center><h1> THIBAULT JUILLARD --- MATHEMATICIAN </h1></center> 
+<center><h1> THIBAULT JUILLARD | MATHEMATICIAN </h1></center> 
 
 <p align="center"><img src="profil.jpg" width=200></p>
   
@@ -14,7 +14,7 @@ My full résumé can be found [here](https://thibjrd.github.io/doc/CV.pdf).
 
 I use geometric methods to study the structure and representation theory of **vertex algebras**, which are algebraic structures appearing as symmetries of two-dimensional conformal field theories. The vertex algebras I study (affine W-algebras, quiver vertex algebras) are deformations of the arc spaces of usually well-known Poisson varieties (Slodowy slices, Nakajima varieties).
 
-### How to adress me
+### How to adress me?
 * Pronunciation of my first name: [ti.bo].
 * Pronouns: he/him.
 
