@@ -69,7 +69,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Popularisation seminar for Ph.D. students* (2022-2023), Institut de mathématiques d'Orsay.
 
 ### Outreach
-
+* [APEX-Maths](https://imar.ro/~apex2024/index.html) (2024), Reșița, Romania. Three-week program to initiate high school students to mathematical research. I was in charge of problem sessions in Number Theory and Topology.
 * *[Astromaths camp](https://www.fondation-blaise-pascal.org/nos-actions/les-projets-de-la-fondation/le-camp-astromaths/)* (2021-2024). Two-week summer camp for high-school students. I was giving lectures about mathematics and Kepler laws.
 
 <center><h2> Misc </h2></center> 
