@@ -10,9 +10,9 @@ I prepared my Ph.D. under the supervision of Professor [Anne Moreau](https://www
 
 My full résumé can be found [here](https://thibjrd.github.io/doc/CV.pdf).
 
-### Research topics
+### Representation theory, algebraic geometry and mathematical physcis
 
-I study the structure and representation theory of vertex algebras, which are algebraic structures appearing as symmetries of two-dimensional conformal field theories. The vertex algebras I study (affine W-algebras, quiver vertex algebras) are deformations of the arc spaces of usually well-known Poisson varieties (Slodowy slices, Nakajima varieties).
+I use geometric methods to study the structure and representation theory of **vertex algebras**, which are algebraic structures appearing as symmetries of two-dimensional conformal field theories. The vertex algebras I study (affine W-algebras, quiver vertex algebras) are deformations of the arc spaces of usually well-known Poisson varieties (Slodowy slices, Nakajima varieties).
 
 ### Contact 
 
@@ -69,6 +69,8 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Popularisation seminar for Ph.D. students* (2022-2023), Institut de mathématiques d'Orsay.
 
 ### Outreach
+
+* *[Astromaths camp](https://www.fondation-blaise-pascal.org/nos-actions/les-projets-de-la-fondation/le-camp-astromaths/)* (2021-2024). Two-week summer camp for high-school students. I was giving lectures about mathematics and Kepler laws.
 
 <center><h2> Misc </h2></center> 
 
