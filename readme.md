@@ -50,6 +50,8 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Reduction by stages for finite W-algebras* (October 2022). ["Workshop in quantum symmetries"](https://sites.google.com/view/crm-2022-qs/home), Centre de recherche en mathématiques, Montréal, Canada. 
 
 ### Seminars
+* *Reduction by stages for affine W-algebras* (May 2025). ["Algebraic geometry seminar"](https://math.univ-lille.fr/agenda/seminaires/seminaire-geometrie-algebrique), Université de Lille, France.
+* *Reduction by stages for affine W-algebras* (January 2025). ["Representation theory seminar"](https://www.i2m.univ-amu.fr/evenements/groupes-scientifiques/representations-des-groupes-reductifs-rgr/), Institut de mathématiques de Marseille, Luminy, France.
 * *Reduction by stages for affine W-algebras* (December 2024). ["Seminar on algebra and mathematical physics"](https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000002,-N000492,-N0,-N383425109251889,-N383425109239890,-N0,-N0,-N3), Universität Hamburg, Germany.
 * *Reduction by stages: from Slodowy slices to affine W-algebras* (November 2024). "Group, representations and geometry seminar", Université Paris-Cité, France.
 * *Reduction by stages for affine W-algebras* (October 2024). ["Algebra and representation theory seminar"](https://www.mat.uniroma2.it/~ricerca/algebr/page-AREA_files/page-AREA-2_files/talks.html), Università degli Studi di Roma, Tor Vergata, Italy.
