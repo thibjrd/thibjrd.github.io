@@ -50,6 +50,10 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Reduction by stages for finite W-algebras* (October 2022). ["Workshop in quantum symmetries"](https://sites.google.com/view/crm-2022-qs/home), Centre de recherche en mathématiques, Montréal, Canada. 
 
 ### Seminars
+* Reduction by stages: from Slodowy slices to affine W-algebras* (November 2024). "Group, representations and geometry eminar", Université Paris-Cité, France.
+* Reduction by stages for affine W-algebras* (October 2024). ["Algebra and representation theory seminar"](https://www.mat.uniroma2.it/~ricerca/algebr/page-AREA_files/page-AREA-2_files/talks.html), Università degli Studi di Roma, Tor Vergata, Italy.
+* *Reduction by stages for W-algebras* (March 2024). ["AGATA seminar"](https://sites.google.com/view/seminaire-agata), Université de Montpellier, France.
+* *Reduction by stages for W-algebras* (January 2024). "[Algebra seminar](https://indico.math.cnrs.fr/category/178/)", Institut Camille Jordan, Lyon, France.
 
 ### Reading groups
 * *Symplectic geometry and characteristic varieties* (January 2025). ["D-modules"](https://www.imo.universite-paris-saclay.fr/fr/conf/dmod2425/), Institut de mathématiques d'Orsay.
