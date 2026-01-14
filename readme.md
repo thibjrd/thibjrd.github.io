@@ -75,7 +75,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 ### Student
 * Ren Grégoire (2026), Master 1 internship. "Symmetric invariants of the centraliser of a nilpotent element". [Abstract](https://thibjrd.github.io/doc/supervision/gregoire_proposal.pdf) in French.
 
-### :mortar_board: Course
+### :briefcase: Course
 
 #### Universität Hamburg
 * *Topics in algebraic geometry* (2026), Master.
