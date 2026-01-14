@@ -22,7 +22,7 @@ I use geometric methods to study the structure and representation theory of **ve
 ### :mailbox_closed: Contact 
 
 * thibault [dot] juillard [at] uni-hamburg [dot] de
-* tjuillard [dot] math [at] proton [dot] me 
+* tjuillard [dot] maths [at] proton [dot] me 
 
 <center><h2> :page_with_curl: Publications </h2></center> 
 
