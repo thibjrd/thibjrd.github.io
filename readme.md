@@ -75,7 +75,12 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 ### Student
 * Ren Grégoire (2026), Master 1 internship. "Symmetric invariants of the centraliser of a nilpotent element". [Abstract](https://thibjrd.github.io/doc/supervision/gregoire_proposal.pdf) in French.
 
-### Supervision of exercise sessions
+### Course
+
+#### Universität Hamburg
+* "Topics in algebraic geometry" (2026), Master.
+
+### Exercise sessions
 
 #### École polytechnique 
 * *Euclidean and Hermitian spaces* (2024-2025), Bachelor 2.
