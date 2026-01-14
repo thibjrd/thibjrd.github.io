@@ -78,7 +78,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 ### Course
 
 #### Universität Hamburg
-* "Topics in algebraic geometry" (2026), Master.
+* *Topics in algebraic geometry* (2026), Master.
 
 ### Exercise sessions
 
