@@ -77,9 +77,6 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 
 ### :briefcase: Course
 
-#### Universität Hamburg
-* *Topics in algebraic geometry* (2026), Master.
-
 ### :school_satchel: Exercise sessions
 
 #### École polytechnique 
