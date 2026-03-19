@@ -94,7 +94,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Geometry* (2021), Bachelor 2. Course given by Professor Marc Troyanov, see his [book](https://www.epflpress.org/produit/352/9782880748173/cours-de-geometrie).
 * *Linear algebra* (2021), Bachelor 1.
 * *Analysis 1* (2021), Bachelor 1.
-* *Group theory* (2021), Bachelor 2.
+* *Group theory* (2020), Bachelor 2.
 
 <center><h2> :pizza: Event organisation </h2></center> 
 
