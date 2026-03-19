@@ -39,8 +39,9 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 
 <center><h2> :microphone: Talks </h2></center>  
 
-### Conferences
-* *A Kraft--Procesi rule for W-algebras* (February 2025). ["Vertex algebras and related topics"](https://www.maths.tcd.ie/~dmc/), Trinity college, Dublin, Ireland.
+### Conferences and workshops
+* *Kraft--Procesi rule for W-algebras* (February 2025). "[Itinerant workshop](https://indico.math.cnrs.fr/event/15713/overview) of the [thematic network in algebra](https://rt-algebre.math.cnrs.fr/)", Tours, France.
+* *Kraft--Procesi rule for W-algebras* (February 2025). ["Vertex algebras and related topics"](https://www.maths.tcd.ie/~dmc/), Trinity college, Dublin, Ireland.
 * *Reduction by stages for affine W-algebras* (November 2025). "[Collaborative Research Center](https://www.sfb1624.uni-hamburg.de/) retreat", Büsum, Germany.
 * *Reduction by stages for affine W-algebras* (October 2025). ["Collaborations in algebra, representation theory and ethics"](https://sites.google.com/uniroma1.it/caremath/home-page), École normale supérieure de Lyon, France.
 * *Reduction by stages for affine W-algebras* (July 2025). ["Queer and Trans Mathematicians in Algebra and Representation Theory"](https://math-events.uni-bonn.de/event/104/), University of Bonn, Germany.
