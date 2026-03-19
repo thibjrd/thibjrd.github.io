@@ -52,6 +52,10 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Reduction by stages for finite W-algebras* (October 2022). ["Workshop in quantum symmetries"](https://sites.google.com/view/crm-2022-qs/home), Centre de recherche en mathématiques, Montréal, Canada. 
 
 ### Seminars
+* *Kraft--Procesi rule for W-algebras* (March 2026). ["GAT seminar"](https://www.lamfa.u-picardie.fr/seminaire), Université d'Amiens, France.
+* *Kraft--Procesi rule for W-algebras* (March 2026). ["Seminar of the maths laboratory"](https://www.univ-reims.fr/lmr/seminaire/seminaire,10070,18111.html), Université de Reims, France.
+* *Kraft--Procesi rule for W-algebras* (March 2026). ["GAAO seminar"](https://lmbp.uca.fr/seminaires/gt_gaao.php), Université de Clermont Auvergne, Clermont-Ferrand, France.
+* *Kraft--Procesi rule for W-algebras* (March 2026). ["Topology and algebraic geometry seminar"](https://math.univ-angers.fr/seminaires/seminaire-de-geometrie-algebrique/), Université d'Angers, France.
 * *Reduction by stages for affine W-algebras, a geometric approach* (May 2025). ["Algebraic geometry seminar"](https://math.univ-lille.fr/agenda/seminaires/seminaire-geometrie-algebrique), Université de Lille, France.
 * *Reduction by stages for affine W-algebras, a geometric approach* (January 2025). ["Representation theory seminar"](https://www.i2m.univ-amu.fr/evenements/groupes-scientifiques/representations-des-groupes-reductifs-rgr/), Institut de mathématiques de Marseille, Luminy, France.
 * *Reduction by stages for affine W-algebras, a geometric approach* (December 2024). ["Seminar on algebra and mathematical physics"](https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=COURSEDETAILS&ARGUMENTS=-N000000000000002,-N000492,-N0,-N383425109251889,-N383425109239890,-N0,-N0,-N3), Universität Hamburg, Germany.
