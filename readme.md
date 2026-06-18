@@ -1,6 +1,6 @@
 <center><h1> THIBAULT JUILLARD | MATHEMATICIAN </h1></center> 
 
-<p align="center"><img src="profil.jpg" width=200></p>
+<p align="center"><img src="profl.jpg" width=200></p>
   
 <center><h2> :card_index: About me </h2></center> 
 
