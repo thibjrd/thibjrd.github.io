@@ -52,6 +52,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Reduction by stages for finite W-algebras* (October 2022). ["Workshop in quantum symmetries"](https://sites.google.com/view/crm-2022-qs/home), Centre de recherche en mathématiques, Montréal, Canada. 
 
 ### Seminars
+* *Reduction by stages for affine W-algebras* (April 2026). ["Algebra, geometry and topology seminar"](https://algebraic-geometry.pages.ist.ac.at/)), IST Austria, Vienna.
 * *Kraft--Procesi rule for W-algebras* (March 2026). ["GAT seminar"](https://www.lamfa.u-picardie.fr/seminaire), Université d'Amiens, France.
 * *Kraft--Procesi rule for W-algebras* (March 2026). ["Seminar of the maths laboratory"](https://www.univ-reims.fr/lmr/seminaire/seminaire,10070,18111.html), Université de Reims, France.
 * *Kraft--Procesi rule for W-algebras* (March 2026). ["GAAO seminar"](https://lmbp.uca.fr/seminaires/gt_gaao.php), Université de Clermont Auvergne, Clermont-Ferrand, France.
