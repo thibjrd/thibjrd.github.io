@@ -117,4 +117,4 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 
 –––––––
 
-Last update: 2026/05/01. © Thibault Juillard. Photo © Pierre Veron 2026.
+Last update: 2026/11/09. © Thibault Juillard. Photo © Leon Goetz 2026.
