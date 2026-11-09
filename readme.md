@@ -53,7 +53,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 
 ### Seminars
 * *A decomposition theorem for minimal W-algebras in type A* (November 2026). "Seminar of the Creutzig group", Friedrich-Alexander-University, Erlangen.
-* *A decomposition theorem for minimal W-algebras in type A* (September 2026)."Algebra seminar", School of Mathematics and Statistics, Glasgow.
+* *A decomposition theorem for minimal W-algebras in type A* (September 2026). "Algebra seminar", School of Mathematics and Statistics, Glasgow.
 * *Reduction by stages for affine W-algebras* (April 2026). ["Algebra, geometry and topology seminar"](https://algebraic-geometry.pages.ist.ac.at/), IST Austria, Vienna.
 * *Kraft--Procesi rule for W-algebras* (March 2026). ["GAT seminar"](https://www.lamfa.u-picardie.fr/seminaire), Université d'Amiens, France.
 * *Kraft--Procesi rule for W-algebras* (March 2026). ["Seminar of the maths laboratory"](https://www.univ-reims.fr/lmr/seminaire/seminaire,10070,18111.html), Université de Reims, France.
