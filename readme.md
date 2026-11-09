@@ -105,7 +105,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 
 ### :mortar_board: Seminars
 
-* *[ZMP Junior Seminar](https://www.zmp.uni-hamburg.de/events/seminar.html)* (2026-2027), University of Hamburg and Desy, Germany. \par
+* *[ZMP Junior Seminar](https://www.zmp.uni-hamburg.de/events/seminar.html)* (2026-2027), University of Hamburg and Desy, Germany.
 	Seminar for young researchers in mathematical physics.
 * *[Réseau des étudiant-es en geométrie algérique (RéGA)](https://indico.math.cnrs.fr/category/287/)* (2023-2025), Institut Henri Poincaré. Algebraic geometry seminar for young researchers.
 * *Popularisation seminar for Ph.D. students* (2022-2023), Institut de mathématiques d'Orsay.
