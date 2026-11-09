@@ -83,7 +83,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 <center><h2> :books: Teaching </h2></center> 
 
 ### Student
-* Bailey White (2026-2027), Master project. "The Feigin--Frenkel centre in exceptional type."
+* Bailey White (2026-2027), Master project (Co-advisor: [Christopher Raymond](https://sites.google.com/view/chrisraymond/home)). "The Feigin--Frenkel centre in exceptional type."
 * Ren Grégoire (2026), Master 1 internship. "Symmetric invariants of the centraliser of a nilpotent element". [Abstract](https://thibjrd.github.io/doc/supervision/gregoire_proposal.pdf) in French.
 
 ### :briefcase: Course
