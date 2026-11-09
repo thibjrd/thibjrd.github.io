@@ -52,6 +52,8 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Reduction by stages for finite W-algebras* (October 2022). ["Workshop in quantum symmetries"](https://sites.google.com/view/crm-2022-qs/home), Centre de recherche en mathématiques, Montréal, Canada. 
 
 ### Seminars
+* *A decomposition theorem for minimal W-algebras in type A* (November 2026). "Seminar of the Creutzig group", Friedrich-Alexander-University, Erlangen.
+* *A decomposition theorem for minimal W-algebras in type A* (September 2026)."Algebra seminar", School of Mathematics and Statistics, Glasgow.
 * *Reduction by stages for affine W-algebras* (April 2026). ["Algebra, geometry and topology seminar"](https://algebraic-geometry.pages.ist.ac.at/), IST Austria, Vienna.
 * *Kraft--Procesi rule for W-algebras* (March 2026). ["GAT seminar"](https://www.lamfa.u-picardie.fr/seminaire), Université d'Amiens, France.
 * *Kraft--Procesi rule for W-algebras* (March 2026). ["Seminar of the maths laboratory"](https://www.univ-reims.fr/lmr/seminaire/seminaire,10070,18111.html), Université de Reims, France.
@@ -66,6 +68,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Reduction by stages for W-algebras* (January 2024). "[Algebra seminar](https://indico.math.cnrs.fr/category/178/)", Institut Camille Jordan, Lyon, France.
 
 ### Reading groups
+* *The chiral de Rham complex* (October 2026). [" Seminar on Vertex Operator Algebras in Thiessow "](https://math-inf.uni-greifswald.de/forschung/algebra-geometrie-und-topologie/juniorprofessur-agt/seminar-in-thiessow/), , Thiessow, Rügen.
 * *Symplectic geometry and characteristic varieties* (January 2025). ["D-modules"](https://www.imo.universite-paris-saclay.fr/fr/conf/dmod2425/), Institut de mathématiques d'Orsay.
 * *Examples of GIT construction: quiver varieties* (March 2024). "Good moduli stacks", Institut de mathématiques d'Orsay.
 * *Equivariant sheaves and linearisations in GIT* (February 2024). "Good moduli stacks", Institut de mathématiques d'Orsay.
@@ -80,6 +83,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 <center><h2> :books: Teaching </h2></center> 
 
 ### Student
+* Bailey White (2026-2027), Master project. "The Feigin--Frenkel centre in exceptional type."
 * Ren Grégoire (2026), Master 1 internship. "Symmetric invariants of the centraliser of a nilpotent element". [Abstract](https://thibjrd.github.io/doc/supervision/gregoire_proposal.pdf) in French.
 
 ### :briefcase: Course
@@ -101,6 +105,8 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 
 ### :mortar_board: Seminars
 
+* *[RZMP Junior Seminar](https://www.zmp.uni-hamburg.de/events/seminar.html)* (2026-2027), University of Hamburg and Desy, Germany. \par
+	Seminar for young researchers in mathematical physics.
 * *[Réseau des étudiant-es en geométrie algérique (RéGA)](https://indico.math.cnrs.fr/category/287/)* (2023-2025), Institut Henri Poincaré. Algebraic geometry seminar for young researchers.
 * *Popularisation seminar for Ph.D. students* (2022-2023), Institut de mathématiques d'Orsay.
 
