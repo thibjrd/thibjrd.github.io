@@ -124,4 +124,4 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 
 –––––––
 
-Last update: 2026/11/09. © Thibault Juillard. Photo © Leon Goetz 2026.
+Last update: 2026/11/11. © Thibault Juillard. Photo © Leon Goertz 2026.
