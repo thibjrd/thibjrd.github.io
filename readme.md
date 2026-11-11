@@ -8,6 +8,8 @@ I'm a postdoctoral researcher at the **University of Hamburg**. My mentor is [Sv
 
 I did my Ph.D. under the supervision of Professor [Anne Moreau](https://www.imo.universite-paris-saclay.fr/~anne.moreau/), at the Institut de mathématiques d'Orsay (Université Paris-Saclay, France).
 
+https://orcid.org/0000-0001-9071-0409
+
 My full résumé can be found [here](https://thibjrd.github.io/doc/CV.pdf).
 
 ### :bulb: Representation theory, algebraic geometry and mathematical physics
