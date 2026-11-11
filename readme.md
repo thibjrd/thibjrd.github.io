@@ -26,8 +26,9 @@ I use geometric methods to study the structure and representation theory of **ve
 
 <center><h2> :page_with_curl: Publications </h2></center> 
 
-### Preprint
-* Naoki Genra and Thibault Juillard (2025). "Reduction by stages for affine W-algebras". [arXiv: 2501.04501](https://arxiv.org/abs/2501.04501).
+### Preprints
+* Thibault Juillard (2026). "A decomposition theorem for minimal W-algebras of type A". [arXiv:2611.13239](https://arxiv.org/abs/2611.13239).
+* Naoki Genra and Thibault Juillard (2025). "Reduction by stages for affine W-algebras". [arXiv:2501.04501](https://arxiv.org/abs/2501.04501).
 
 ### Published article
 * Naoki Genra and Thibault Juillard (2024). "Reduction by stages for finite W-algebras". In: *Mathematische Zeitschrift* 308.1, Paper No. 15, 36. issn: 0025-5874,1432-1823. [doi: 10.1007/s00209-024-03567-9](https://doi.org/10.1007/s00209-024-03567-9). [arXiv: 2212.06022](https://arxiv.org/abs/2212.06022).
