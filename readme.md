@@ -71,7 +71,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 * *Reduction by stages for W-algebras* (January 2024). "[Algebra seminar](https://indico.math.cnrs.fr/category/178/)", Institut Camille Jordan, Lyon, France.
 
 ### Reading groups
-* *The chiral de Rham complex* (October 2026). [" Seminar on Vertex Operator Algebras in Thiessow "](https://math-inf.uni-greifswald.de/forschung/algebra-geometrie-und-topologie/juniorprofessur-agt/seminar-in-thiessow/), , Thiessow, Rügen.
+* *The chiral de Rham complex* (October 2026). [" Seminar on Vertex Operator Algebras in Thiessow "](https://math-inf.uni-greifswald.de/forschung/algebra-geometrie-und-topologie/juniorprofessur-agt/seminar-in-thiessow/), Thiessow, Rügen.
 * *Symplectic geometry and characteristic varieties* (January 2025). ["D-modules"](https://www.imo.universite-paris-saclay.fr/fr/conf/dmod2425/), Institut de mathématiques d'Orsay.
 * *Examples of GIT construction: quiver varieties* (March 2024). "Good moduli stacks", Institut de mathématiques d'Orsay.
 * *Equivariant sheaves and linearisations in GIT* (February 2024). "Good moduli stacks", Institut de mathématiques d'Orsay.
@@ -86,7 +86,7 @@ A more recent version (with less typos) can be found [here](https://thibjrd.gith
 <center><h2> :books: Teaching </h2></center> 
 
 ### Student
-* Bailey White (2026-2027), Master project (Co-advisor: [Christopher Raymond](https://sites.google.com/view/chrisraymond/home)). "The Feigin--Frenkel centre in exceptional type."
+* Bailey White (2026-2027), Master project (Co-advisor: [Christopher Raymond](https://sites.google.com/view/chrisraymond/home)). "The Feigin--Frenkel centre in exceptional types."
 * Ren Grégoire (2026), Master 1 internship. "Symmetric invariants of the centraliser of a nilpotent element". [Abstract](https://thibjrd.github.io/doc/supervision/gregoire_proposal.pdf) in French.
 
 ### :briefcase: Course
